@@ -14,5 +14,4 @@ machine-learning-ex7<br>
 machine-learning-ex8<br>
 
 ### notes:
-Operations of matrix:<br>
-  Location: Operation_Matrix.md
+Operations of matrix
